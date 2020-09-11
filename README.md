@@ -21,7 +21,7 @@ I have also used <strong>PyGame Mixer</strong> for handling the audio files. It 
 10. Has a menu bar to get easy access to every thing
 11. Is installable
 
-Here in this repository you can find the code with comments and the executable file too.
+Here in this repository you can find the code with comments. The executable file cannot be because of its huge size. 
 I have used pyinstaller and NSIS (NullSoft Scriptable Install System) for making the executable file.
 I hope you will enjoy it.
 
